@@ -1,9 +1,8 @@
 [
   {
     "name": "CTN OTA",
-    "packageName": "com.google.android.youtube.tv",
+    "packageName": "com.tthanhIPTV.vn",
     "version": "2.1.0",
-    "iconUrl": "https://raw.githubusercontent.com/nguyenct1988-art/ota-data/main/icon.png",
-    "downloadUrl": "https://drive.google.com/file/d/13kb-WirS5ifQap9T2TSFBCzt44WpU1cX/view?usp=sharing"
+        "downloadUrl": "https://github.com/nguyenct1988-art/ota-data/releases/download/OTAAPK/01TTTV.apk"
   }
 ]
