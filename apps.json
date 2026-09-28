@@ -1,8 +1,6 @@
-[
-  {
-    "name": "CTN OTA",
-    "packageName": "com.tthanhIPTV.vn",
-    "version": "2.1.0",
-        "downloadUrl": "https://github.com/nguyenct1988-art/ota-data/releases/download/OTAAPK/01TTTV.apk"
-  }
-]
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/nguyenct1988-art/TÊN_REPO_CỦA_BẠN/main/CTN.apk",
+  "changelog": "Cập nhật phiên bản mới, đổi tên ứng dụng thành công và tối ưu hóa hệ thống."
+}
